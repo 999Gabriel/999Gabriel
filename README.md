@@ -4,7 +4,7 @@
 - 🔗 Building my own Freelance AI business 
 - 📫 How to reach me @999gabriel.winkler@gmail.com
 - 🎙️ Pronouns: him
-- 👨‍💻 My Portfolio: www.999gabriel.mw 💻
+- 👨‍💻 My Portfolio: www.999gabriel.me 💻
 - 🦾 If you need something built for you visit www.winware.gg OR
 - 📨 contact me here @gabrielwinkler@winware.gg
 
