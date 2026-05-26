@@ -13,6 +13,7 @@
 `student` &nbsp;·&nbsp; `builder` &nbsp;·&nbsp; `innsbruck, AT`
 
 [gabrielwinkler@winware.gg](mailto:gabrielwinkler@winware.gg)
+[999gabriel.winkler@gmail.com](mailto:999gabriel.winkler@gmail.com)
 <div align="center">
   <img width="944" height="1203" alt="Screenshot 2026-05-26 at 19 14 52" src="https://github.com/user-attachments/assets/4c1dd207-5184-4371-a0d0-a6dfc7064413" />
 </div>
