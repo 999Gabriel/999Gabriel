@@ -11,8 +11,6 @@
 <div align="center">
 
 `student` &nbsp;·&nbsp; `builder` &nbsp;·&nbsp; `innsbruck, AT`
-
-[gabrielwinkler@winware.gg](mailto:gabrielwinkler@winware.gg)
 [999gabriel.winkler@gmail.com](mailto:999gabriel.winkler@gmail.com)
 [Portfolio Website](https://www.999gabriel.me)
 <div align="center">
